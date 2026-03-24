@@ -2,9 +2,6 @@
 Android checkers game with full game logic, GUI, and persistent player data
 # Checkers Mobile Application
 
-## Description
-A full-featured Android checkers game developed in Java, including complete game logic and interactive user interface.
-
 ## Features
 - Full implementation of checkers rules (legal moves, captures, multi-captures, king promotion)  
 - Interactive GUI with multiple screens (game, menu, leaderboard)  
