@@ -1,6 +1,5 @@
 # Checkers-Android
 Android checkers game with full game logic, GUI, and persistent player data
-# Checkers Mobile Application
 
 ## Features
 - Full implementation of checkers rules (legal moves, captures, multi-captures, king promotion)  
