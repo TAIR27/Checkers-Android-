@@ -16,8 +16,7 @@ Android checkers game with full game logic, GUI, and persistent player data
 - Android Studio  
 
 ## How to Run
-1. Open the project in Android Studio  
-2. Run the application on an emulator or device  
+Attached is a PDF file explaining the app and containing a user guide.  
 
 ---
 
